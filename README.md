@@ -1,4 +1,3 @@
-# exSOLID
 ## Exercícios SOLID
 
 ### SRP (Single Responsibility Principle
